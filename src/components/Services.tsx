@@ -1,22 +1,22 @@
 const services = [
   {
     title: "Classic Haircut",
-    price: "₹80",
+    price: "₹100",
     description: "Precision haircut tailored to your style."
   },
   {
     title: "Beard Trim",
-    price: "₹60 - ₹80",
+    price: "₹100 - ₹150",
     description: "Sharp lines and a perfectly shaped beard."
   },
   {
     title: "Hair + Beard",
-    price: "₹150 - ₹200",
+    price: "₹150 - ₹250",
     description: "Complete grooming experience."
   },
   {
     title: "Kids Haircut",
-    price: "₹70 - ₹100",
+    price: "₹100 - ₹150",
     description: "Comfortable and stylish cuts for kids."
   }
 ];
@@ -63,8 +63,7 @@ function Services() {
                 Book Now
               </a>
 
-            </div>
-          ))}
+            </div>))}
 
         </div>
 
