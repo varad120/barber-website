@@ -52,8 +52,8 @@ function Hero() {
     repeat: Infinity,
     ease: "easeInOut"
   }}
->
-   📞 Book Now
+ >
+    📞 Book Now
 </motion.a>
       </div>
     </section>
