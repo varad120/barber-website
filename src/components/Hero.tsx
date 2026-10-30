@@ -30,7 +30,7 @@ function Hero() {
         </p>
 
         <motion.a
-  href="tel:+919876543210"
+  href="tel:+919889855014"
   className="inline-flex items-center gap-2 bg-yellow-500 text-black mt-10 px-6 py-3 rounded-lg font-semibold shadow-lg"
   animate={{
     scale: [1, 1.05, 1],
