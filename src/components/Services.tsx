@@ -1,17 +1,17 @@
 const services = [
   {
     title: "Classic Haircut",
-    price: "₹100",
+    price: "₹200",
     description: "Precision haircut tailored to your style."
   },
   {
     title: "Beard Trim",
-    price: "₹100 - ₹150",
+    price: "₹150 - ₹200",
     description: "Sharp lines and a perfectly shaped beard."
   },
   {
     title: "Hair + Beard",
-    price: "₹150 - ₹250",
+    price: "₹200 - ₹250",
     description: "Complete grooming experience."
   },
   {
